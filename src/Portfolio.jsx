@@ -78,7 +78,7 @@ const Portfolio = () => {
     linkedin: 'linkedin.com/in/akash-tiwari-0b5105253/',
     aboutText1: 'Fresh Computer Science graduate with a passion for creating innovative digital solutions. I specialize in full-stack development, machine learning, and creating user-centric experiences that solve real-world problems.',
     aboutText2: 'When I\'m not coding, you\'ll find me exploring the latest tech trends, contributing to open-source projects, or working on personal projects that push the boundaries of what\'s possible.',
-    resumeLink: '#'
+    resumeLink: 'https://drive.google.com/file/d/18EHbvJF_v3yxgnU2j_WT9ejSOtSIYAk0/view?usp=sharing'
   });
 
   // Projects State
